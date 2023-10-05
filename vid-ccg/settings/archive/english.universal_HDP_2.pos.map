@@ -1,0 +1,15 @@
+// English
+ADJ       
+ADP       
+ADV       
+SCONJ       
+CCONJ       conj
+AUX       verb
+DET       noun
+NUM       noun
+PRT       
+PRON       noun
+.       
+X       
+NOUN       noun
+VERB       verb

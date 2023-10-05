@@ -1,0 +1,74 @@
+1	hands	_	_	_	object
+2	are	_	_	_	AUX
+3	raised	_	_	_	action
+4	at	_	_	_	ADP
+5	the	_	_	_	DET
+6	start	_	_	_	object
+
+1	the	_	_	_	DET
+2	lights	_	_	_	object
+3	in	_	_	_	ADP
+4	the	_	_	_	DET
+5	background	_	_	_	UNK
+6	turn	_	_	_	UNK
+7	red	_	_	_	ADJ
+
+1	camera	_	_	_	object
+2	first	_	_	_	ADJ
+3	zooms	_	_	_	UNK
+
+1	red	_	_	_	ADJ
+2	lights	_	_	_	object
+3	are	_	_	_	AUX
+4	visible	_	_	_	ADJ
+5	.	_	_	_	PUNCT
+
+1	person	_	_	_	UNK
+2	on	_	_	_	ADP
+3	stage	_	_	_	object
+4	appears	_	_	_	UNK
+5	the	_	_	_	DET
+6	first	_	_	_	ADJ
+7	time	_	_	_	UNK
+
+1	can	_	_	_	AUX
+2	see	_	_	_	UNK
+3	the	_	_	_	DET
+4	singer	_	_	_	UNK
+5	on	_	_	_	ADP
+6	the	_	_	_	DET
+7	big	_	_	_	ADJ
+8	screen	_	_	_	object
+
+1	person	_	_	_	UNK
+2	with	_	_	_	ADP
+3	blue	_	_	_	ADJ
+4	scarf	_	_	_	object
+5	on	_	_	_	ADP
+6	.	_	_	_	PUNCT
+
+1	we	_	_	_	PRON
+2	first	_	_	_	ADV
+3	see	_	_	_	UNK
+4	singer	_	_	_	UNK
+5	on	_	_	_	ADP
+6	screen	_	_	_	object
+7	on	_	_	_	ADP
+8	side	_	_	_	object
+9	of	_	_	_	ADP
+10	stage	_	_	_	object
+11	.	_	_	_	PUNCT
+
+1	the	_	_	_	DET
+2	camera	_	_	_	object
+3	turns	_	_	_	UNK
+4	to	_	_	_	PART
+5	show	_	_	_	UNK
+6	the	_	_	_	DET
+7	crowd	_	_	_	UNK
+8	.	_	_	_	PUNCT
+
+1	person	_	_	_	UNK
+2	comes	_	_	_	UNK
+3	into	_	_	_	ADP
+4	view	_	_	_	UNK

@@ -1,0 +1,11 @@
+coloredlogs
+gensim==4.3.1
+tqdm
+nltk==3.7
+pandas==1.4.2
+pyinflect==0.5.1
+spacy==3.2.4
+Cython==0.29.30
+numpy==1.22.4
+treelib
+depccg==2.0.3.2

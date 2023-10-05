@@ -1,0 +1,20 @@
+ID=1, log probability=-0.10784767
+(<T S[dcl] 0 2> (<T NP 0 1> (<L N XX XX hands N>) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/(S[pss]\NP) XX XX are (S[dcl]\NP)/(S[pss]\NP)>) (<T S[pss]\NP 0 2> (<L S[pss]\NP XX XX raised S[pss]\NP>) (<T (S\NP)\(S\NP) 0 2> (<L ((S\NP)\(S\NP))/NP XX XX at ((S\NP)\(S\NP))/NP>) (<T NP 0 2> (<L NP[nb]/N XX XX the NP[nb]/N>) (<L N XX XX start N>) ) ) ) ) )
+ID=2, log probability=-3.95362377
+(<T S[dcl] 0 2> (<T NP 0 2> (<T NP 0 2> (<L NP[nb]/N XX XX the NP[nb]/N>) (<L N XX XX lights N>) ) (<T NP\NP 0 2> (<L (NP\NP)/NP XX XX in (NP\NP)/NP>) (<T NP 0 2> (<L NP[nb]/N XX XX the NP[nb]/N>) (<L N XX XX background N>) ) ) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP XX XX turn (S[dcl]\NP)/NP>) (<T NP 0 1> (<L N XX XX red N>) ) ) )
+ID=3, log probability=-2.93140364
+(<T NP 0 2> (<T NP 0 1> (<L N XX XX camera N>) ) (<T NP\NP 0 2> (<L (NP\NP)/(NP\NP) XX XX first (NP\NP)/(NP\NP)>) (<L NP\NP XX XX zooms NP\NP>) ) )
+ID=4, log probability=-0.10012732
+(<T S[dcl] 0 2> (<T S[dcl] 0 2> (<T NP 0 1> (<T N 0 2> (<L N/N XX XX red N/N>) (<L N XX XX lights N>) ) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/(S[adj]\NP) XX XX are (S[dcl]\NP)/(S[adj]\NP)>) (<L S[adj]\NP XX XX visible S[adj]\NP>) ) ) (<L . XX XX . .>) )
+ID=5, log probability=-1.15284789
+(<T S[dcl] 0 2> (<T NP 0 2> (<T NP 0 1> (<L N XX XX person N>) ) (<T NP\NP 0 2> (<L (NP\NP)/NP XX XX on (NP\NP)/NP>) (<T NP 0 1> (<L N XX XX stage N>) ) ) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP XX XX appears (S[dcl]\NP)/NP>) (<T NP 0 2> (<L NP[nb]/N XX XX the NP[nb]/N>) (<T N 0 2> (<L N/N XX XX first N/N>) (<L N XX XX time N>) ) ) ) )
+ID=6, log probability=-22.45931244
+(<T NP 0 2> (<T NP 0 1> (<T S[ng]\NP 0 2> (<L (S[ng]\NP)/(S[b]\NP) XX XX can (S[ng]\NP)/(S[b]\NP)>) (<T S[b]\NP 0 2> (<L (S[b]\NP)/NP XX XX see (S[b]\NP)/NP>) (<T NP 0 2> (<L NP[nb]/N XX XX the NP[nb]/N>) (<L N XX XX singer N>) ) ) ) ) (<T NP\NP 0 2> (<L (NP\NP)/NP XX XX on (NP\NP)/NP>) (<T NP 0 2> (<L NP[nb]/N XX XX the NP[nb]/N>) (<T N 0 2> (<L N/N XX XX big N/N>) (<L N XX XX screen N>) ) ) ) )
+ID=7, log probability=-1.31594157
+(<T NP 0 2> (<T NP 0 2> (<T NP 0 1> (<L N XX XX person N>) ) (<T NP\NP 0 2> (<L (NP\NP)/NP XX XX with (NP\NP)/NP>) (<T NP 0 2> (<T NP 0 1> (<T N 0 2> (<L N/N XX XX blue N/N>) (<L N XX XX scarf N>) ) ) (<L NP\NP XX XX on NP\NP>) ) ) ) (<L . XX XX . .>) )
+ID=8, log probability=-0.51517141
+(<T S[dcl] 0 2> (<T S[dcl] 0 2> (<L NP XX XX we NP>) (<T S[dcl]\NP 0 2> (<L (S\NP)/(S\NP) XX XX first (S\NP)/(S\NP)>) (<T S[dcl]\NP 0 2> (<T S[dcl]\NP 0 2> (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP XX XX see (S[dcl]\NP)/NP>) (<T NP 0 1> (<L N XX XX singer N>) ) ) (<T (S\NP)\(S\NP) 0 2> (<L ((S\NP)\(S\NP))/NP XX XX on ((S\NP)\(S\NP))/NP>) (<T NP 0 1> (<L N XX XX screen N>) ) ) ) (<T (S\NP)\(S\NP) 0 2> (<L ((S\NP)\(S\NP))/NP XX XX on ((S\NP)\(S\NP))/NP>) (<T NP 0 2> (<T NP 0 1> (<L N XX XX side N>) ) (<T NP\NP 0 2> (<L (NP\NP)/NP XX XX of (NP\NP)/NP>) (<T NP 0 1> (<L N XX XX stage N>) ) ) ) ) ) ) ) (<L . XX XX . .>) )
+ID=9, log probability=-0.00031340
+(<T S[dcl] 0 2> (<T S[dcl] 0 2> (<T NP 0 2> (<L NP[nb]/N XX XX the NP[nb]/N>) (<L N XX XX camera N>) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/(S[to]\NP) XX XX turns (S[dcl]\NP)/(S[to]\NP)>) (<T S[to]\NP 0 2> (<L (S[to]\NP)/(S[b]\NP) XX XX to (S[to]\NP)/(S[b]\NP)>) (<T S[b]\NP 0 2> (<L (S[b]\NP)/NP XX XX show (S[b]\NP)/NP>) (<T NP 0 2> (<L NP[nb]/N XX XX the NP[nb]/N>) (<L N XX XX crowd N>) ) ) ) ) ) (<L . XX XX . .>) )
+ID=10, log probability=-0.41544956
+(<T S[dcl] 0 2> (<T NP 0 1> (<L N XX XX person N>) ) (<T S[dcl]\NP 0 2> (<L S[dcl]\NP XX XX comes S[dcl]\NP>) (<T (S\NP)\(S\NP) 0 2> (<L ((S\NP)\(S\NP))/NP XX XX into ((S\NP)\(S\NP))/NP>) (<T NP 0 1> (<L N XX XX view N>) ) ) ) )

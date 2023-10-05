@@ -1,0 +1,3 @@
+experiment_name: 40_enrichment_normal_precision
+top_n: 40
+filter_pos: false # true if we only classify nouns as objects and verbs as actions, else false

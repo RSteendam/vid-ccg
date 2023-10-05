@@ -1,0 +1,6 @@
+[submodule "CCG-Induction"]
+	path = CCG-Induction
+	url = https://github.com/RSteendam/CCG-Induction
+[submodule "depccg"]
+	path = depccg
+	url = https://github.com/RSteendam/depccg
